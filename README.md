@@ -1,5 +1,5 @@
 ### Hello World, I'm Varsha :purple_heart:
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 100/>
 
 -----
 #### I am a detail-oriented individual seeking to advance my career as a Software Developer, leveraging my problem-solving and troubleshooting skills to develop responsive, efficient solutions while collaborating with like-minded professionals.
