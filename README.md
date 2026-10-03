@@ -101,7 +101,7 @@
 <a href="https://www.linkedin.com/in/shreyachatterjee05/">
   <img align="left" alt="Varsha's LinkedIn" width="22px" src="https://www.linkedin.com/in/varsha-suresh-215a65311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" />
 </a>
-<a href="https://github.com/Shreya549">
+<a href="https://github.com/varshaperuru-web">
   <img align="left" alt="Varsha's Github" width="22px" src="https://github.com/varshaperuru-web" />
 </a>
 <br><br>
