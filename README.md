@@ -57,15 +57,7 @@
 - **Data Science**
   - Data Visualization
   - Data Analysis
- <table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
-</tr>
-</tbody>
-</table>
+
 
 ### I'm currently learning :open_book:
 - **Competitive Coding**
@@ -75,9 +67,6 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
-</td>
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
@@ -90,7 +79,6 @@
    - Artificial Intelligence
     
 <br>
-
 
 <br><br>
 
